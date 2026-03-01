@@ -1,0 +1,22 @@
+.venv/
+env/
+venv/
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Логи и временные файлы
+*.log
+temp.pdf
+statement.pdf
+
+# Секреты / локальная конфигурация
+.env
+*.env
+
